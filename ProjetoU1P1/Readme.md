@@ -17,3 +17,4 @@ O objetivo desse trabalho é analisar a rede de coautoria do PPgEEC no período 
 
 
 A seguir obtive os seguintes resultados:
+![Texto Alternativo](https://github.com/Lsodre/-Data-structure/blob/main/ProjetoU1P1/Figure_1.png)
