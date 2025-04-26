@@ -21,7 +21,7 @@ Aluno: Leonardo Sodré
 ![Texto Alternativo](https://github.com/Lsodre/-Data-structure/blob/main/ProjetoU1P1/Figure_1.png)
 
  Figura 1: podemos ver que o número de arestas cai em períodos de avaliação, com exceção de 2024 que obteve próximo ao máximo.
-     O número de vértices é estável em torno de 500, a densidade variou entre 0,02 e 0,01 aproximadamente e grau médio variou próximo de 8 a 14.
+     O número de vértices é estável em torno de 500, a densidade variou entre 0,02 e 0,1 aproximadamente e grau médio variou próximo de 8 a 14.
 
 ![Texto Alternativo](https://github.com/Lsodre/-Data-structure/blob/main/ProjetoU1P1/Figure_2.png)
 
